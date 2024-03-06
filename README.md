@@ -1,4 +1,4 @@
-## Project URL - https://seller-admin-trialshopy.netlify.app/
+## Project URL - http://localhost:5173/
 
 ## Cloning and Running the Application in local
 
